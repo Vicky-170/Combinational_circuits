@@ -3,7 +3,7 @@ This Repository consists of the  RTL , Testbenches, Schematic & Simulation of Co
 
 ## Project Structure
 
-Each circuit is organized into its own directory containing the RTL code, testbench (TB), gate-level schematic, and simulation waveforms.
+Each circuit is organized into its own directory containing the RTL code, testbench , gate-level schematic, and simulation waveforms.
 
 *   `/Half_adder`
 *   `/Full_adder`
