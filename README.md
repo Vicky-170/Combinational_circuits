@@ -41,7 +41,7 @@ Below are the gate-level representations of the implemented circuits.
 
 ## Design and Verification
 
-*   **Languages:** Verilog / VHDL
+*   **Languages:** Verilog 
 *   **Methodology:** Each module includes a dedicated testbench to drive stimulus and observe outputs.
 *   **Verification:** Functional correctness is verified via waveform simulation.
   
